@@ -6,7 +6,7 @@ import pickle
 @fellow.app.task(name="sql.score_by_zipcode")
 @typecheck.returns("92 * (string, number, number, count)")
 def score_by_zipcode():
-    with open('zipcode.pickle', 'rb') as f:
+    with open('.SQL/zipcode.pickle', 'rb') as f:
         zipcode = pickle.load(f)
     return zipcode
 @fellow.app.task(name="sql.score_by_map")
