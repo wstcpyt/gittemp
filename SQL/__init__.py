@@ -13,7 +13,7 @@ def score_by_zipcode():
 @typecheck.returns("string")
 def score_by_map():
     # must be url of the form https://x.cartodb.com/...
-    return "https://cartodb.com"
+    return "https://wstcpyt.cartodb.com/viz/5053f86a-f2c9-11e5-b66f-0ea31932ec1d/public_map"
 
 @fellow.app.task(name="sql.score_by_borough")
 @typecheck.returns("5 * (string, number, number, count)")
