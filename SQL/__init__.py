@@ -34,5 +34,5 @@ def score_by_cuisine():
 @typecheck.returns("20 * ((string, string), number, count)")
 def violation_by_cuisine():
     with open('./SQL/vio.pickle', 'rb') as f:
-        vio = pickle.load(f)
-    return vio
+        vios = pickle.load(f)
+    return vios
