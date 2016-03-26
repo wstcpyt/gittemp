@@ -33,7 +33,6 @@ def score_by_cuisine():
 @fellow.app.task(name="sql.violation_by_cuisine")
 @typecheck.returns("20 * ((string, string), number, count)")
 def violation_by_cuisine():
-    return [(("Café/Coffee/Tea",
-              "Toilet facility not maintained and provided with toilet paper; "
-              "waste receptacle and self-closing door."),
-             1.87684775827172, 315)] * 20
+    with open('./SQL/vio.pickle', 'rb') as f:
+        vio = pickle.load(f)
+    return vio
