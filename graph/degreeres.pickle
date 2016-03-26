@@ -29,7 +29,7 @@ a(VGillian Miniter
 p13
 g2
 (g6
-S';\x02\x00\x00\x00\x00\x00\x00'
+S'<\x02\x00\x00\x00\x00\x00\x00'
 p14
 tp15
 Rp16
@@ -47,7 +47,7 @@ a(VAnnie Watt
 p23
 g2
 (g6
-S'\xc5\x01\x00\x00\x00\x00\x00\x00'
+S'\xcb\x01\x00\x00\x00\x00\x00\x00'
 p24
 tp25
 Rp26
@@ -92,7 +92,7 @@ a(VAndrew Saffir
 p48
 g2
 (g6
-S'T\x01\x00\x00\x00\x00\x00\x00'
+S'U\x01\x00\x00\x00\x00\x00\x00'
 p49
 tp50
 Rp51
@@ -106,7 +106,7 @@ p54
 tp55
 Rp56
 tp57
-a(VEleanora Kennedy
+a(VDebbie Bancroft
 p58
 g2
 (g6
@@ -115,7 +115,7 @@ p59
 tp60
 Rp61
 tp62
-a(VDebbie Bancroft
+a(VEleanora Kennedy
 p63
 g2
 (g6
@@ -133,20 +133,20 @@ p69
 tp70
 Rp71
 tp72
-a(VBonnie Comley
+a(VRob Rich
 p73
 g2
 (g6
-S'0\x01\x00\x00\x00\x00\x00\x00'
+S'3\x01\x00\x00\x00\x00\x00\x00'
 p74
 tp75
 Rp76
 tp77
-a(VRob Rich
+a(VBonnie Comley
 p78
 g2
 (g6
-S'.\x01\x00\x00\x00\x00\x00\x00'
+S'0\x01\x00\x00\x00\x00\x00\x00'
 p79
 tp80
 Rp81
@@ -214,20 +214,20 @@ p114
 tp115
 Rp116
 tp117
-a(VBettina Zilkha
+a(VCutty McGill
 p118
 g2
 (g6
-S'\xfa\x00\x00\x00\x00\x00\x00\x00'
+S'\xff\x00\x00\x00\x00\x00\x00\x00'
 p119
 tp120
 Rp121
 tp122
-a(VCutty McGill
+a(VBettina Zilkha
 p123
 g2
 (g6
-S'\xf9\x00\x00\x00\x00\x00\x00\x00'
+S'\xfa\x00\x00\x00\x00\x00\x00\x00'
 p124
 tp125
 Rp126
@@ -245,7 +245,7 @@ a(VBarbara Tober
 p133
 g2
 (g6
-S'\xf5\x00\x00\x00\x00\x00\x00\x00'
+S'\xf6\x00\x00\x00\x00\x00\x00\x00'
 p134
 tp135
 Rp136
@@ -277,20 +277,20 @@ p149
 tp150
 Rp151
 tp152
-a(VLydia Fenet
+a(VKaren LeFrak
 p153
 g2
 (g6
-S'\xe2\x00\x00\x00\x00\x00\x00\x00'
+S'\xe4\x00\x00\x00\x00\x00\x00\x00'
 p154
 tp155
 Rp156
 tp157
-a(VKaren LeFrak
+a(VLydia Fenet
 p158
 g2
 (g6
-S'\xe1\x00\x00\x00\x00\x00\x00\x00'
+S'\xe2\x00\x00\x00\x00\x00\x00\x00'
 p159
 tp160
 Rp161
@@ -380,7 +380,7 @@ a(VDonna Karan
 p208
 g2
 (g6
-S'\xc4\x00\x00\x00\x00\x00\x00\x00'
+S'\xc5\x00\x00\x00\x00\x00\x00\x00'
 p209
 tp210
 Rp211
@@ -448,7 +448,7 @@ p244
 tp245
 Rp246
 tp247
-a(VRoric Tobin
+a(VMartha Stewart
 p248
 g2
 (g6
@@ -457,7 +457,7 @@ p249
 tp250
 Rp251
 tp252
-a(VMartha Stewart
+a(VRoric Tobin
 p253
 g2
 (g6
@@ -484,7 +484,7 @@ p264
 tp265
 Rp266
 tp267
-a(VMargo Langenberg
+a(VAmy Hoadley
 p268
 g2
 (g6
@@ -493,7 +493,7 @@ p269
 tp270
 Rp271
 tp272
-a(VAmy McFarland
+a(VMargo Langenberg
 p273
 g2
 (g6
@@ -502,7 +502,7 @@ p274
 tp275
 Rp276
 tp277
-a(VAmy Hoadley
+a(VAmy McFarland
 p278
 g2
 (g6
@@ -520,7 +520,7 @@ p284
 tp285
 Rp286
 tp287
-a(VPaula Zahn
+a(VKipton Cronkite
 p288
 g2
 (g6
@@ -529,7 +529,7 @@ p289
 tp290
 Rp291
 tp292
-a(VKipton Cronkite
+a(VPaula Zahn
 p293
 g2
 (g6
@@ -538,7 +538,7 @@ p294
 tp295
 Rp296
 tp297
-a(VAudrey Gruss
+a(VCouri Hay
 p298
 g2
 (g6
@@ -547,7 +547,7 @@ p299
 tp300
 Rp301
 tp302
-a(VCouri Hay
+a(VAudrey Gruss
 p303
 g2
 (g6
@@ -574,7 +574,7 @@ p314
 tp315
 Rp316
 tp317
-a(VFelicia Taylor
+a(VJennifer Creel
 p318
 g2
 (g6
@@ -583,7 +583,7 @@ p319
 tp320
 Rp321
 tp322
-a(VJennifer Creel
+a(VFelicia Taylor
 p323
 g2
 (g6
@@ -619,7 +619,7 @@ p339
 tp340
 Rp341
 tp342
-a(VLeonard Lauder
+a(VCynthia Lufkin
 p343
 g2
 (g6
@@ -628,7 +628,7 @@ p344
 tp345
 Rp346
 tp347
-a(VCynthia Lufkin
+a(VLeonard Lauder
 p348
 g2
 (g6
@@ -677,12 +677,12 @@ a(VMargo Catsimatidis
 p373
 g2
 (g6
-S'\x9f\x00\x00\x00\x00\x00\x00\x00'
+S'\xa0\x00\x00\x00\x00\x00\x00\x00'
 p374
 tp375
 Rp376
 tp377
-a(VJohn Demsey
+a(VMary Hilliard
 p378
 g2
 (g6
@@ -691,11 +691,11 @@ p379
 tp380
 Rp381
 tp382
-a(VJanna Bullock
+a(VJohn Demsey
 p383
 g2
 (g6
-S'\x9c\x00\x00\x00\x00\x00\x00\x00'
+S'\x9d\x00\x00\x00\x00\x00\x00\x00'
 p384
 tp385
 Rp386
@@ -709,25 +709,25 @@ p389
 tp390
 Rp391
 tp392
-a(VFrederick Anderson
+a(VJanna Bullock
 p393
 g2
 (g6
-S'\x9b\x00\x00\x00\x00\x00\x00\x00'
+S'\x9c\x00\x00\x00\x00\x00\x00\x00'
 p394
 tp395
 Rp396
 tp397
-a(VHilary Geary Ross
+a(VFrederick Anderson
 p398
 g2
 (g6
-S'\x99\x00\x00\x00\x00\x00\x00\x00'
+S'\x9b\x00\x00\x00\x00\x00\x00\x00'
 p399
 tp400
 Rp401
 tp402
-a(VMary Hilliard
+a(VHilary Geary Ross
 p403
 g2
 (g6
@@ -736,7 +736,7 @@ p404
 tp405
 Rp406
 tp407
-a(VCeCe Black
+a(VAdelina Wong Ettelson
 p408
 g2
 (g6
@@ -745,7 +745,7 @@ p409
 tp410
 Rp411
 tp412
-a(VAdelina Wong Ettelson
+a(VCeCe Black
 p413
 g2
 (g6
@@ -763,7 +763,7 @@ p419
 tp420
 Rp421
 tp422
-a(VSusan Shin
+a(VAlexandra Lind Rose
 p423
 g2
 (g6
@@ -772,7 +772,7 @@ p424
 tp425
 Rp426
 tp427
-a(VAlexandra Lind Rose
+a(VSusan Shin
 p428
 g2
 (g6
@@ -781,29 +781,29 @@ p429
 tp430
 Rp431
 tp432
-a(VJohn Catsimatidis
+a(VAnn Watt
 p433
 g2
 (g6
-S'\x94\x00\x00\x00\x00\x00\x00\x00'
+S'\x95\x00\x00\x00\x00\x00\x00\x00'
 p434
 tp435
 Rp436
 tp437
-a(VMartha Glass
+a(VJohn Catsimatidis
 p438
 g2
 (g6
-S'\x93\x00\x00\x00\x00\x00\x00\x00'
+S'\x94\x00\x00\x00\x00\x00\x00\x00'
 p439
 tp440
 Rp441
 tp442
-a(VJohn J
+a(VMartha Glass
 p443
 g2
 (g6
-S'\x92\x00\x00\x00\x00\x00\x00\x00'
+S'\x93\x00\x00\x00\x00\x00\x00\x00'
 p444
 tp445
 Rp446
@@ -817,7 +817,7 @@ p449
 tp450
 Rp451
 tp452
-a(VBette Midler
+a(VJohn J
 p453
 g2
 (g6
@@ -826,7 +826,7 @@ p454
 tp455
 Rp456
 tp457
-a(VDawne Marie Grannum
+a(VChuck Scarborough
 p458
 g2
 (g6
@@ -835,7 +835,7 @@ p459
 tp460
 Rp461
 tp462
-a(VChuck Scarborough
+a(VDawne Marie Grannum
 p463
 g2
 (g6
@@ -844,43 +844,43 @@ p464
 tp465
 Rp466
 tp467
-a(VNathalie Kaplan
+a(VBette Midler
 p468
 g2
 (g6
-S'\x91\x00\x00\x00\x00\x00\x00\x00'
+S'\x92\x00\x00\x00\x00\x00\x00\x00'
 p469
 tp470
 Rp471
 tp472
-a(VDeborah Roberts
+a(VNathalie Kaplan
 p473
 g2
 (g6
-S'\x90\x00\x00\x00\x00\x00\x00\x00'
+S'\x91\x00\x00\x00\x00\x00\x00\x00'
 p474
 tp475
 Rp476
 tp477
-a(VLizzie Tisch
+a(VDeborah Roberts
 p478
 g2
 (g6
-S'\x8f\x00\x00\x00\x00\x00\x00\x00'
+S'\x90\x00\x00\x00\x00\x00\x00\x00'
 p479
 tp480
 Rp481
 tp482
-a(VAlexia Hamm Ryan
+a(VLizzie Tisch
 p483
 g2
 (g6
-S'\x8e\x00\x00\x00\x00\x00\x00\x00'
+S'\x8f\x00\x00\x00\x00\x00\x00\x00'
 p484
 tp485
 Rp486
 tp487
-a(VMary Davidson
+a(VConsul General
 p488
 g2
 (g6
@@ -889,7 +889,7 @@ p489
 tp490
 Rp491
 tp492
-a(VLisa Anastos
+a(VAlexia Hamm Ryan
 p493
 g2
 (g6
@@ -898,7 +898,7 @@ p494
 tp495
 Rp496
 tp497
-a(VAnn Watt
+a(VMary Davidson
 p498
 g2
 (g6
@@ -907,7 +907,7 @@ p499
 tp500
 Rp501
 tp502
-a(VConsul General
+a(VLisa Anastos
 p503
 g2
 (g6
