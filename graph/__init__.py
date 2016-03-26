@@ -12,7 +12,9 @@ def degree():
 @fellow.app.task(name="graph.pagerank")
 @typecheck.returns("100 * (string, number)")
 def pagerank():
-    return [('Martha Stewart', 0.00019312108706213307)] * 100
+    with open('./graph/pagerank.pickle', 'rb') as f:
+        pagerank = pickle.load(f)
+    return pagerank
 
 @fellow.app.task(name="graph.best_friends")
 @typecheck.returns("100 * ((string, string), count)")
