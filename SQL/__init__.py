@@ -35,4 +35,6 @@ def score_by_cuisine():
 def violation_by_cuisine():
     with open('./SQL/vio.pickle', 'rb') as f:
         vio = pickle.load(f)
+        for i in range(len(vio)):
+            vio[i] = ((vio[i][0][0],vio[i][0][1].decode('iso-8859-1')),vio[i][1],vio[i][2])
     return vio
