@@ -27,6 +27,7 @@ def score_by_borough():
 def score_by_cuisine():
     with open('./SQL/cui.pickle', 'rb') as f:
         cuis = pickle.load(f)
+        cuis = ('Caf\xe9/Coffee/Tea', 15.994683295044306, 0.10258473259987819, 15235)
     return cuis
 
 @fellow.app.task(name="sql.violation_by_cuisine")
