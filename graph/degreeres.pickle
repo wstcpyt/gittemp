@@ -74,7 +74,7 @@ a(VRob Rich
 p38
 g2
 (g6
-S'p\x01\x00\x00\x00\x00\x00\x00'
+S'o\x01\x00\x00\x00\x00\x00\x00'
 p39
 tp40
 Rp41
@@ -124,7 +124,7 @@ p64
 tp65
 Rp66
 tp67
-a(VSomers Farkas
+a(VAlina Cho
 p68
 g2
 (g6
@@ -133,7 +133,7 @@ p69
 tp70
 Rp71
 tp72
-a(VAlina Cho
+a(VSomers Farkas
 p73
 g2
 (g6
@@ -493,7 +493,7 @@ p269
 tp270
 Rp271
 tp272
-a(VMichele Herbert
+a(VDoubles
 p273
 g2
 (g6
@@ -502,7 +502,7 @@ p274
 tp275
 Rp276
 tp277
-a(VDoubles
+a(VMary Hilliard
 p278
 g2
 (g6
@@ -511,7 +511,7 @@ p279
 tp280
 Rp281
 tp282
-a(VBarbara Tober
+a(VMichele Herbert
 p283
 g2
 (g6
@@ -520,7 +520,7 @@ p284
 tp285
 Rp286
 tp287
-a(VMary Hilliard
+a(VBarbara Tober
 p288
 g2
 (g6
@@ -601,7 +601,7 @@ p329
 tp330
 Rp331
 tp332
-a(VSusan Magazine
+a(VPaula Zahn
 p333
 g2
 (g6
@@ -610,7 +610,7 @@ p334
 tp335
 Rp336
 tp337
-a(VAnnette Rickel
+a(VSusan Magazine
 p338
 g2
 (g6
@@ -619,7 +619,7 @@ p339
 tp340
 Rp341
 tp342
-a(VPaula Zahn
+a(VAnnette Rickel
 p343
 g2
 (g6
@@ -646,11 +646,11 @@ p354
 tp355
 Rp356
 tp357
-a(VDirectors
+a(VAnne Hearst McInerney
 p358
 g2
 (g6
-S'\xa2\x00\x00\x00\x00\x00\x00\x00'
+S'\xa1\x00\x00\x00\x00\x00\x00\x00'
 p359
 tp360
 Rp361
@@ -664,47 +664,47 @@ p364
 tp365
 Rp366
 tp367
-a(VAnne Hearst McInerney
+a(VLeonard Lauder
 p368
 g2
 (g6
-S'\xa1\x00\x00\x00\x00\x00\x00\x00'
+S'\x9f\x00\x00\x00\x00\x00\x00\x00'
 p369
 tp370
 Rp371
 tp372
-a(VLeonard Lauder
+a(VRichard Johnson
 p373
 g2
 (g6
-S'\x9f\x00\x00\x00\x00\x00\x00\x00'
+S'\x9e\x00\x00\x00\x00\x00\x00\x00'
 p374
 tp375
 Rp376
 tp377
-a(VRichard Johnson
+a(VAdelina Wong Ettelson
 p378
 g2
 (g6
-S'\x9e\x00\x00\x00\x00\x00\x00\x00'
+S'\x9c\x00\x00\x00\x00\x00\x00\x00'
 p379
 tp380
 Rp381
 tp382
-a(VAdelina Wong Ettelson
+a(VHilary Geary Ross
 p383
 g2
 (g6
-S'\x9c\x00\x00\x00\x00\x00\x00\x00'
+S'\x9a\x00\x00\x00\x00\x00\x00\x00'
 p384
 tp385
 Rp386
 tp387
-a(VHilary Geary Ross
+a(VGrace Meigher
 p388
 g2
 (g6
-S'\x9a\x00\x00\x00\x00\x00\x00\x00'
+S'\x99\x00\x00\x00\x00\x00\x00\x00'
 p389
 tp390
 Rp391
@@ -718,16 +718,16 @@ p394
 tp395
 Rp396
 tp397
-a(VGrace Meigher
+a(VJanna Bullock
 p398
 g2
 (g6
-S'\x99\x00\x00\x00\x00\x00\x00\x00'
+S'\x98\x00\x00\x00\x00\x00\x00\x00'
 p399
 tp400
 Rp401
 tp402
-a(VJanna Bullock
+a(VHunt Slonem
 p403
 g2
 (g6
@@ -736,16 +736,16 @@ p404
 tp405
 Rp406
 tp407
-a(VHunt Slonem
+a(VLiz Peek
 p408
 g2
 (g6
-S'\x98\x00\x00\x00\x00\x00\x00\x00'
+S'\x97\x00\x00\x00\x00\x00\x00\x00'
 p409
 tp410
 Rp411
 tp412
-a(VLiz Peek
+a(VSusan Shin
 p413
 g2
 (g6
@@ -763,11 +763,11 @@ p419
 tp420
 Rp421
 tp422
-a(VSusan Shin
+a(VJohn Demsey
 p423
 g2
 (g6
-S'\x97\x00\x00\x00\x00\x00\x00\x00'
+S'\x95\x00\x00\x00\x00\x00\x00\x00'
 p424
 tp425
 Rp426
@@ -790,34 +790,34 @@ p434
 tp435
 Rp436
 tp437
-a(VJohn Demsey
+a(VConsul General
 p438
 g2
 (g6
-S'\x95\x00\x00\x00\x00\x00\x00\x00'
+S'\x91\x00\x00\x00\x00\x00\x00\x00'
 p439
 tp440
 Rp441
 tp442
-a(VConsul General
+a(VDeborah Roberts
 p443
 g2
 (g6
-S'\x91\x00\x00\x00\x00\x00\x00\x00'
+S'\x8f\x00\x00\x00\x00\x00\x00\x00'
 p444
 tp445
 Rp446
 tp447
-a(VDeborah Roberts
+a(VAlexia Hamm Ryan
 p448
 g2
 (g6
-S'\x8f\x00\x00\x00\x00\x00\x00\x00'
+S'\x8e\x00\x00\x00\x00\x00\x00\x00'
 p449
 tp450
 Rp451
 tp452
-a(VAlexia Hamm Ryan
+a(VNathalie Kaplan
 p453
 g2
 (g6
@@ -826,16 +826,16 @@ p454
 tp455
 Rp456
 tp457
-a(VNathalie Kaplan
+a(VNina Griscom
 p458
 g2
 (g6
-S'\x8e\x00\x00\x00\x00\x00\x00\x00'
+S'\x8d\x00\x00\x00\x00\x00\x00\x00'
 p459
 tp460
 Rp461
 tp462
-a(VNina Griscom
+a(VLisa Anastos
 p463
 g2
 (g6
@@ -844,7 +844,7 @@ p464
 tp465
 Rp466
 tp467
-a(VBette Midler
+a(VFern Mallis
 p468
 g2
 (g6
@@ -853,7 +853,7 @@ p469
 tp470
 Rp471
 tp472
-a(VFern Mallis
+a(VBette Midler
 p473
 g2
 (g6
@@ -862,16 +862,16 @@ p474
 tp475
 Rp476
 tp477
-a(VLisa Anastos
+a(VStanding
 p478
 g2
 (g6
-S'\x8d\x00\x00\x00\x00\x00\x00\x00'
+S'\x8c\x00\x00\x00\x00\x00\x00\x00'
 p479
 tp480
 Rp481
 tp482
-a(VStanding
+a(VPatricia Shiah
 p483
 g2
 (g6
@@ -880,16 +880,16 @@ p484
 tp485
 Rp486
 tp487
-a(VPatricia Shiah
+a(VBarbara Walters
 p488
 g2
 (g6
-S'\x8c\x00\x00\x00\x00\x00\x00\x00'
+S'\x8b\x00\x00\x00\x00\x00\x00\x00'
 p489
 tp490
 Rp491
 tp492
-a(VPresident and CEO
+a(VJohn J
 p493
 g2
 (g6
@@ -898,20 +898,20 @@ p494
 tp495
 Rp496
 tp497
-a(VBarbara Walters
+a(VMartha Glass
 p498
 g2
 (g6
-S'\x8b\x00\x00\x00\x00\x00\x00\x00'
+S'\x89\x00\x00\x00\x00\x00\x00\x00'
 p499
 tp500
 Rp501
 tp502
-a(VJohn J
+a(VAlec Baldwin
 p503
 g2
 (g6
-S'\x8b\x00\x00\x00\x00\x00\x00\x00'
+S'\x89\x00\x00\x00\x00\x00\x00\x00'
 p504
 tp505
 Rp506
