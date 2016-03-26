@@ -18,7 +18,9 @@ def score_by_map():
 @fellow.app.task(name="sql.score_by_borough")
 @typecheck.returns("5 * (string, number, number, count)")
 def score_by_borough():
-    return [("MANHATTAN", 10.7269875502402, 0.0798259390597376, 10201)] * 5
+    with open('./SQL/boro.pickle', 'rb') as f:
+        boro = pickle.load(f)
+    return boro
 
 @fellow.app.task(name="sql.score_by_cuisine")
 @typecheck.returns("75 * (string, number, number, count)")
