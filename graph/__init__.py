@@ -19,4 +19,6 @@ def pagerank():
 @fellow.app.task(name="graph.best_friends")
 @typecheck.returns("100 * ((string, string), count)")
 def best_friends():
-    return [(('Michael Kennedy', 'Eleanora Kennedy'), 41)] * 100
+    with open('./graph/friends.pickle', 'rb') as f:
+        friends = pickle.load(f)
+    return friends

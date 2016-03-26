@@ -1,0 +1,1214 @@
+(lp0
+((VGillian Miniter
+p1
+VSylvester Miniter
+p2
+tp3
+cnumpy.core.multiarray
+scalar
+p4
+(cnumpy
+dtype
+p5
+(S'i8'
+p6
+I0
+I1
+tp7
+Rp8
+(I3
+S'<'
+p9
+NNNI-1
+I-1
+I0
+tp10
+bS'q\x00\x00\x00\x00\x00\x00\x00'
+p11
+tp12
+Rp13
+tp14
+a((VBonnie Comley
+p15
+VStewart Lane
+p16
+tp17
+g4
+(g8
+S'U\x00\x00\x00\x00\x00\x00\x00'
+p18
+tp19
+Rp20
+tp21
+a((VJamee Gregory
+p22
+VPeter Gregory
+p23
+tp24
+g4
+(g8
+S'I\x00\x00\x00\x00\x00\x00\x00'
+p25
+tp26
+Rp27
+tp28
+a((VGeoffrey Bradfield
+p29
+VRoric Tobin
+p30
+tp31
+g4
+(g8
+S'G\x00\x00\x00\x00\x00\x00\x00'
+p32
+tp33
+Rp34
+tp35
+a((VAndrew Saffir
+p36
+VDaniel Benedict
+p37
+tp38
+g4
+(g8
+S'F\x00\x00\x00\x00\x00\x00\x00'
+p39
+tp40
+Rp41
+tp42
+a((VDonald Tober
+p43
+VBarbara Tober
+p44
+tp45
+g4
+(g8
+S'6\x00\x00\x00\x00\x00\x00\x00'
+p46
+tp47
+Rp48
+tp49
+a((VJay Diamond
+p50
+VAlexandra Lebenthal
+p51
+tp52
+g4
+(g8
+S'6\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+Rp55
+tp56
+a((VSomers Farkas
+p57
+VJonathan Farkas
+p58
+tp59
+g4
+(g8
+S'6\x00\x00\x00\x00\x00\x00\x00'
+p60
+tp61
+Rp62
+tp63
+a((VCampion Platt
+p64
+VTatiana Platt
+p65
+tp66
+g4
+(g8
+S'5\x00\x00\x00\x00\x00\x00\x00'
+p67
+tp68
+Rp69
+tp70
+a((VJean Shafiroff
+p71
+VMartin Shafiroff
+p72
+tp73
+g4
+(g8
+S'2\x00\x00\x00\x00\x00\x00\x00'
+p74
+tp75
+Rp76
+tp77
+a((VMichael Kennedy
+p78
+VEleanora Kennedy
+p79
+tp80
+g4
+(g8
+S'.\x00\x00\x00\x00\x00\x00\x00'
+p81
+tp82
+Rp83
+tp84
+a((VYaz Hernandez
+p85
+VValentin Hernandez
+p86
+tp87
+g4
+(g8
+S'-\x00\x00\x00\x00\x00\x00\x00'
+p88
+tp89
+Rp90
+tp91
+a((VGrace Meigher
+p92
+VChris Meigher
+p93
+tp94
+g4
+(g8
+S'+\x00\x00\x00\x00\x00\x00\x00'
+p95
+tp96
+Rp97
+tp98
+a((VMelissa Morris
+p99
+VChappy Morris
+p100
+tp101
+g4
+(g8
+S'*\x00\x00\x00\x00\x00\x00\x00'
+p102
+tp103
+Rp104
+tp105
+a((VSessa von Richthofen
+p106
+VRichard Johnson
+p107
+tp108
+g4
+(g8
+S'*\x00\x00\x00\x00\x00\x00\x00'
+p109
+tp110
+Rp111
+tp112
+a((VJonathan Tisch
+p113
+VLizzie Tisch
+p114
+tp115
+g4
+(g8
+S')\x00\x00\x00\x00\x00\x00\x00'
+p116
+tp117
+Rp118
+tp119
+a((VElizabeth Stribling
+p120
+VGuy Robinson
+p121
+tp122
+g4
+(g8
+S')\x00\x00\x00\x00\x00\x00\x00'
+p123
+tp124
+Rp125
+tp126
+a((VDeborah Norville
+p127
+VKarl Wellner
+p128
+tp129
+g4
+(g8
+S')\x00\x00\x00\x00\x00\x00\x00'
+p130
+tp131
+Rp132
+tp133
+a((VMargo Catsimatidis
+p134
+VJohn Catsimatidis
+p135
+tp136
+g4
+(g8
+S'(\x00\x00\x00\x00\x00\x00\x00'
+p137
+tp138
+Rp139
+tp140
+a((VPeter Regna
+p141
+VBarbara Regna
+p142
+tp143
+g4
+(g8
+S'(\x00\x00\x00\x00\x00\x00\x00'
+p144
+tp145
+Rp146
+tp147
+a((VHilary Geary Ross
+p148
+VWilbur Ross
+p149
+tp150
+g4
+(g8
+S'#\x00\x00\x00\x00\x00\x00\x00'
+p151
+tp152
+Rp153
+tp154
+a((VFrederick Anderson
+p155
+VDouglas Hannant
+p156
+tp157
+g4
+(g8
+S'"\x00\x00\x00\x00\x00\x00\x00'
+p158
+tp159
+Rp160
+tp161
+a((VDavid Koch
+p162
+VJulia Koch
+p163
+tp164
+g4
+(g8
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+tp168
+a((VFernanda Kellogg
+p169
+VKirk Henckels
+p170
+tp171
+g4
+(g8
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p172
+tp173
+Rp174
+tp175
+a((VJanna Bullock
+p176
+VCouri Hay
+p177
+tp178
+g4
+(g8
+S'!\x00\x00\x00\x00\x00\x00\x00'
+p179
+tp180
+Rp181
+tp182
+a((VCoco Kopelman
+p183
+VArie Kopelman
+p184
+tp185
+g4
+(g8
+S' \x00\x00\x00\x00\x00\x00\x00'
+p186
+tp187
+Rp188
+tp189
+a((VLeonel Piraino
+p190
+VNina Griscom
+p191
+tp192
+g4
+(g8
+S' \x00\x00\x00\x00\x00\x00\x00'
+p193
+tp194
+Rp195
+tp196
+a((VMichael Cominotto
+p197
+VDennis Basso
+p198
+tp199
+g4
+(g8
+S'\x1f\x00\x00\x00\x00\x00\x00\x00'
+p200
+tp201
+Rp202
+tp203
+a((VAnne Hearst McInerney
+p204
+VJay McInerney
+p205
+tp206
+g4
+(g8
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+p207
+tp208
+Rp209
+tp210
+a((VDan Lufkin
+p211
+VCynthia Lufkin
+p212
+tp213
+g4
+(g8
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p214
+tp215
+Rp216
+tp217
+a((VOlivia Palermo
+p218
+VJohannes Huebl
+p219
+tp220
+g4
+(g8
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+p221
+tp222
+Rp223
+tp224
+a((VMichael Kovner
+p225
+VJean Doyen
+p226
+tp227
+g4
+(g8
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p228
+tp229
+Rp230
+tp231
+a((VArlene Dahl
+p232
+VMarc Rosen
+p233
+tp234
+g4
+(g8
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+p235
+tp236
+Rp237
+tp238
+a((VAlina Cho
+p239
+VJohn Demsey
+p240
+tp241
+g4
+(g8
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p242
+tp243
+Rp244
+tp245
+a((VChuck Scarborough
+p246
+VEllen Scarborough
+p247
+tp248
+g4
+(g8
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+tp252
+a((VMark Badgley
+p253
+VJames Mischka
+p254
+tp255
+g4
+(g8
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p256
+tp257
+Rp258
+tp259
+a((VClo Cohen
+p260
+VCharles Cohen
+p261
+tp262
+g4
+(g8
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p263
+tp264
+Rp265
+tp266
+a((VTommy Hilfiger
+p267
+VDee Ocleppo
+p268
+tp269
+g4
+(g8
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+p270
+tp271
+Rp272
+tp273
+a((VMelania Trump
+p274
+VDonald Trump
+p275
+tp276
+g4
+(g8
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p277
+tp278
+Rp279
+tp280
+a((VSherrell Aston
+p281
+VMuffie Potter Aston
+p282
+tp283
+g4
+(g8
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+p284
+tp285
+Rp286
+tp287
+a((VLiz Peek
+p288
+VJeff Peek
+p289
+tp290
+g4
+(g8
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p291
+tp292
+Rp293
+tp294
+a((VDavid Lauren
+p295
+VLauren Bush
+p296
+tp297
+g4
+(g8
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+p298
+tp299
+Rp300
+tp301
+a((VStephanie Krieger
+p302
+VBrian Stewart
+p303
+tp304
+g4
+(g8
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p305
+tp306
+Rp307
+tp308
+a((g71
+VPatricia Shiah
+p309
+tp310
+g4
+(g8
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p311
+tp312
+Rp313
+tp314
+a((VRick Friedberg
+p315
+VFrancine LeFrak
+p316
+tp317
+g4
+(g8
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p318
+tp319
+Rp320
+tp321
+a((VOthon Prounis
+p322
+VKathy Prounis
+p323
+tp324
+g4
+(g8
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p325
+tp326
+Rp327
+tp328
+a((VAl Roker
+p329
+VDeborah Roberts
+p330
+tp331
+g4
+(g8
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+p332
+tp333
+Rp334
+tp335
+a((VMary Davidson
+p336
+VMarvin Davidson
+p337
+tp338
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p339
+tp340
+Rp341
+tp342
+a((VAnna Safir
+p343
+VEleanora Kennedy
+p344
+tp345
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p346
+tp347
+Rp348
+tp349
+a((VDiana Taylor
+p350
+VMichael Bloomberg
+p351
+tp352
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p353
+tp354
+Rp355
+tp356
+a((VHunt Slonem
+p357
+VLiliana Cavendish
+p358
+tp359
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p360
+tp361
+Rp362
+tp363
+a((VHarry Slatkin
+p364
+VLaura Slatkin
+p365
+tp366
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p367
+tp368
+Rp369
+tp370
+a((VWilbur Ross
+p371
+VHilary Ross
+p372
+tp373
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p374
+tp375
+Rp376
+tp377
+a((VSharon Bush
+p378
+VJean Shafiroff
+p379
+tp380
+g4
+(g8
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+tp384
+a((g57
+VMuffie Potter Aston
+p385
+tp386
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p387
+tp388
+Rp389
+tp390
+a((VNicole Miller
+p391
+VKim Taipale
+p392
+tp393
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p394
+tp395
+Rp396
+tp397
+a((VRick Hilton
+p398
+VKathy Hilton
+p399
+tp400
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p401
+tp402
+Rp403
+tp404
+a((VMilstein Hall
+p405
+VOcean Life
+p406
+tp407
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p408
+tp409
+Rp410
+tp411
+a((VKeytt Lundqvist
+p412
+VAlex Lundqvist
+p413
+tp414
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p415
+tp416
+Rp417
+tp418
+a((VColeman Burke
+p419
+VSusan Burke
+p420
+tp421
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p422
+tp423
+Rp424
+tp425
+a((VIsabel Toledo
+p426
+VRuben Toledo
+p427
+tp428
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p429
+tp430
+Rp431
+tp432
+a((VJudy Gilbert
+p433
+VRod Gilbert
+p434
+tp435
+g4
+(g8
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+p436
+tp437
+Rp438
+tp439
+a((VCeCe Black
+p440
+VLee Black
+p441
+tp442
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p443
+tp444
+Rp445
+tp446
+a((VRichard Steinberg
+p447
+VRenee Steinberg
+p448
+tp449
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p450
+tp451
+Rp452
+tp453
+a((VThorne Perkin
+p454
+VTatiana Perkin
+p455
+tp456
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p457
+tp458
+Rp459
+tp460
+a((VRichard Mishaan
+p461
+VMarcia Mishaan
+p462
+tp463
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p464
+tp465
+Rp466
+tp467
+a((VMario Singer
+p468
+VRamona Singer
+p469
+tp470
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p471
+tp472
+Rp473
+tp474
+a((VDonna Soloway
+p475
+VRichard Soloway
+p476
+tp477
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p478
+tp479
+Rp480
+tp481
+a((VElaine Langone
+p482
+VKen Langone
+p483
+tp484
+g4
+(g8
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+p485
+tp486
+Rp487
+tp488
+a((VBobby Zarin
+p489
+VJill Zarin
+p490
+tp491
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p492
+tp493
+Rp494
+tp495
+a((VNaeem Khan
+p496
+VRanjana Khan
+p497
+tp498
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p499
+tp500
+Rp501
+tp502
+a((VTony Ingrao
+p503
+VRandy Kemper
+p504
+tp505
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p506
+tp507
+Rp508
+tp509
+a((VAlexandra Lebenthal
+p510
+VClaudia Lebenthal
+p511
+tp512
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p513
+tp514
+Rp515
+tp516
+a((VJohn Wambold
+p517
+VMelanie Wambold
+p518
+tp519
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p520
+tp521
+Rp522
+tp523
+a((VWill Cotton
+p524
+VRose Dergan
+p525
+tp526
+g4
+(g8
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+p527
+tp528
+Rp529
+tp530
+a((VGillian Hearst Simonds
+p531
+VChristian Simonds
+p532
+tp533
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p534
+tp535
+Rp536
+tp537
+a((VGeoffrey Thomas
+p538
+VSharon Sondes
+p539
+tp540
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p541
+tp542
+Rp543
+tp544
+a((VAnn Rapp
+p545
+VRoy Kean
+p546
+tp547
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p548
+tp549
+Rp550
+tp551
+a((VHilaria Baldwin
+p552
+VAlec Baldwin
+p553
+tp554
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p555
+tp556
+Rp557
+tp558
+a((VHoward Sobel
+p559
+VGayle Sobel
+p560
+tp561
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p562
+tp563
+Rp564
+tp565
+a((g1
+VSerena Miniter
+p566
+tp567
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p568
+tp569
+Rp570
+tp571
+a((VShirin von Wulffen
+p572
+VFrederic Fekkai
+p573
+tp574
+g4
+(g8
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+p575
+tp576
+Rp577
+tp578
+a((VCece Black
+p579
+VLee Black
+p580
+tp581
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p582
+tp583
+Rp584
+tp585
+a((VDaniel Benedict
+p586
+VJohannes Huebl
+p587
+tp588
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p589
+tp590
+Rp591
+tp592
+a((VAnnie Watt
+p593
+VPatrick McMullan
+p594
+tp595
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p596
+tp597
+Rp598
+tp599
+a((VMichele Herbert
+p600
+VLarry Herbert
+p601
+tp602
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p603
+tp604
+Rp605
+tp606
+a((VBunny Williams
+p607
+VJohn Rosselli
+p608
+tp609
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p610
+tp611
+Rp612
+tp613
+a((VJohn K
+p614
+VJohn J
+p615
+tp616
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p617
+tp618
+Rp619
+tp620
+a((g1
+VAlexandra Lebenthal
+p621
+tp622
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p623
+tp624
+Rp625
+tp626
+a((VRobert Bradford
+p627
+VBarbara Taylor Bradford
+p628
+tp629
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p630
+tp631
+Rp632
+tp633
+a((VHeather Leeds
+p634
+VTom Leeds
+p635
+tp636
+g4
+(g8
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+p637
+tp638
+Rp639
+tp640
+a((VAnna Wintour
+p641
+VBee Shaffer
+p642
+tp643
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p644
+tp645
+Rp646
+tp647
+a((VTiffany Dubin
+p648
+VDebbie Bancroft
+p649
+tp650
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p651
+tp652
+Rp653
+tp654
+a((VDean Palin
+p655
+VRoxanne Palin
+p656
+tp657
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p658
+tp659
+Rp660
+tp661
+a((VArnie Rosenshein
+p662
+VPaola Rosenshein
+p663
+tp664
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p665
+tp666
+Rp667
+tp668
+a((VCharlotte Ronson
+p669
+VAli Wise
+p670
+tp671
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p672
+tp673
+Rp674
+tp675
+a((g15
+VLeah Lane
+p676
+tp677
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p678
+tp679
+Rp680
+tp681
+a((VHarry Kargman
+p682
+VJill Kargman
+p683
+tp684
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p685
+tp686
+Rp687
+tp688
+a((VMarcy Warren
+p689
+VMichael Warren
+p690
+tp691
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p692
+tp693
+Rp694
+tp695
+a((VSimon van Kempen
+p696
+VAlex McCord
+p697
+tp698
+g4
+(g8
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+p699
+tp700
+Rp701
+tp702
+a.
