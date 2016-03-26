@@ -26,8 +26,8 @@ def score_by_borough():
 @typecheck.returns("75 * (string, number, number, count)")
 def score_by_cuisine():
     with open('./SQL/cui.pickle', 'rb') as f:
-        cuis = pickle.load(f)
-    return cuis
+        cui = pickle.load(f)
+    return cui
 
 @fellow.app.task(name="sql.violation_by_cuisine")
 @typecheck.returns("20 * ((string, string), number, count)")
