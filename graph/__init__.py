@@ -4,7 +4,9 @@ import typecheck
 @fellow.app.task(name="graph.degree")
 @typecheck.returns("100 * (string, count)")
 def degree():
-    return [('Alec Baldwin', 144)] * 100
+    with open('./graph/degreeres.pickle', 'rb') as f:
+        degreeres = pickle.load(f)
+    return degreeres
 
 @fellow.app.task(name="graph.pagerank")
 @typecheck.returns("100 * (string, number)")
