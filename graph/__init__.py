@@ -1,5 +1,6 @@
 import fellow
 import typecheck
+import pickle
 
 @fellow.app.task(name="graph.degree")
 @typecheck.returns("100 * (string, count)")
