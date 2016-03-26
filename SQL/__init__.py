@@ -27,8 +27,7 @@ def score_by_borough():
 def score_by_cuisine():
     with open('./SQL/cui.pickle', 'rb') as f:
         cuis = pickle.load(f)
-    for i in range(len(cuis)):
-        cuis[i] = (cuis[i][0].decode('iso-8859-1'),cuis[i][1],cuis[i][2],cuis[i][3])
+        cuis[11] = ('Caf\xe9/Coffee/Tea'.decode('iso-8859-1'), 15.994683295044306, 0.10258473259987819, 15235)
     return cuis
 
 @fellow.app.task(name="sql.violation_by_cuisine")
