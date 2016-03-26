@@ -6,8 +6,8 @@ import pickle
 @typecheck.returns("100 * (string, count)")
 def degree():
     with open('./graph/degreeres.pickle', 'rb') as f:
-        degree = pickle.load(f)
-    return degree
+        degreeres = pickle.load(f)
+    return degreeres
 
 @fellow.app.task(name="graph.pagerank")
 @typecheck.returns("100 * (string, number)")
