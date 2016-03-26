@@ -1,5 +1,5 @@
 (lp0
-(VPatrickMcMullan
+(S'Patrick McMullan'
 p1
 cnumpy.core.multiarray
 scalar
@@ -20,7 +20,7 @@ NNNI-1
 I-1
 I0
 tp8
-bS'\xb3\x05\x00\x00\x00\x00\x00\x00'
+bS',\x08\x00\x00\x00\x00\x00\x00'
 p9
 tp10
 Rp11
@@ -34,205 +34,205 @@ p14
 tp15
 Rp16
 tp17
-a(VPatrick McMullan
+a(VExecutive
 p18
 g2
 (g6
-S'y\x02\x00\x00\x00\x00\x00\x00'
+S')\x02\x00\x00\x00\x00\x00\x00'
 p19
 tp20
 Rp21
 tp22
-a(VExecutive
+a(VMark Gilbertson
 p23
 g2
 (g6
-S')\x02\x00\x00\x00\x00\x00\x00'
+S'%\x02\x00\x00\x00\x00\x00\x00'
 p24
 tp25
 Rp26
 tp27
-a(VMark Gilbertson
+a(VGillian Miniter
 p28
 g2
 (g6
-S'%\x02\x00\x00\x00\x00\x00\x00'
+S'\t\x02\x00\x00\x00\x00\x00\x00'
 p29
 tp30
 Rp31
 tp32
-a(VGillian Miniter
+a(VLebenthal
 p33
 g2
 (g6
-S'\t\x02\x00\x00\x00\x00\x00\x00'
+S'\xaf\x01\x00\x00\x00\x00\x00\x00'
 p34
 tp35
 Rp36
 tp37
-a(VLebenthal
+a(VGeoffrey Bradfield
 p38
 g2
 (g6
-S'\xaf\x01\x00\x00\x00\x00\x00\x00'
+S'\xa5\x01\x00\x00\x00\x00\x00\x00'
 p39
 tp40
 Rp41
 tp42
-a(VGeoffrey Bradfield
+a(VYaz Hern
 p43
 g2
 (g6
-S'\xa5\x01\x00\x00\x00\x00\x00\x00'
+S'u\x01\x00\x00\x00\x00\x00\x00'
 p44
 tp45
 Rp46
 tp47
-a(VYaz Hern
+a(VRob Rich
 p48
 g2
 (g6
-S'u\x01\x00\x00\x00\x00\x00\x00'
+S'l\x01\x00\x00\x00\x00\x00\x00'
 p49
 tp50
 Rp51
 tp52
-a(VRob Rich
+a(VMichael
 p53
 g2
 (g6
-S'l\x01\x00\x00\x00\x00\x00\x00'
+S']\x01\x00\x00\x00\x00\x00\x00'
 p54
 tp55
 Rp56
 tp57
-a(VMichael
+a(VAndrew Saffir
 p58
 g2
 (g6
-S']\x01\x00\x00\x00\x00\x00\x00'
+S'T\x01\x00\x00\x00\x00\x00\x00'
 p59
 tp60
 Rp61
 tp62
-a(VAndrew Saffir
+a(VSharon Bush
 p63
 g2
 (g6
-S'T\x01\x00\x00\x00\x00\x00\x00'
+S'S\x01\x00\x00\x00\x00\x00\x00'
 p64
 tp65
 Rp66
 tp67
-a(VSharon Bush
+a(VSomers Farkas
 p68
 g2
 (g6
-S'S\x01\x00\x00\x00\x00\x00\x00'
+S'Q\x01\x00\x00\x00\x00\x00\x00'
 p69
 tp70
 Rp71
 tp72
-a(VSomers Farkas
+a(VDebbie Bancroft
 p73
 g2
 (g6
-S'Q\x01\x00\x00\x00\x00\x00\x00'
+S'M\x01\x00\x00\x00\x00\x00\x00'
 p74
 tp75
 Rp76
 tp77
-a(VDebbie Bancroft
+a(VCutty McGill
 p78
 g2
 (g6
-S'M\x01\x00\x00\x00\x00\x00\x00'
+S'I\x01\x00\x00\x00\x00\x00\x00'
 p79
 tp80
 Rp81
 tp82
-a(VCutty McGill
+a(VKanavos
 p83
 g2
 (g6
-S'I\x01\x00\x00\x00\x00\x00\x00'
+S'A\x01\x00\x00\x00\x00\x00\x00'
 p84
 tp85
 Rp86
 tp87
-a(VKanavos
+a(VEleanora Kennedy
 p88
 g2
 (g6
-S'A\x01\x00\x00\x00\x00\x00\x00'
+S':\x01\x00\x00\x00\x00\x00\x00'
 p89
 tp90
 Rp91
 tp92
-a(VEleanora Kennedy
+a(VAlina Cho
 p93
 g2
 (g6
-S':\x01\x00\x00\x00\x00\x00\x00'
+S'9\x01\x00\x00\x00\x00\x00\x00'
 p94
 tp95
 Rp96
 tp97
-a(VAlina Cho
+a(VClockwise
 p98
 g2
 (g6
-S'9\x01\x00\x00\x00\x00\x00\x00'
+S'6\x01\x00\x00\x00\x00\x00\x00'
 p99
 tp100
 Rp101
 tp102
-a(VClockwise
+a(VRichard
 p103
 g2
 (g6
-S'6\x01\x00\x00\x00\x00\x00\x00'
+S'+\x01\x00\x00\x00\x00\x00\x00'
 p104
 tp105
 Rp106
 tp107
-a(VRichard
+a(VMuffie Potter Aston
 p108
 g2
 (g6
-S'+\x01\x00\x00\x00\x00\x00\x00'
+S')\x01\x00\x00\x00\x00\x00\x00'
 p109
 tp110
 Rp111
 tp112
-a(VMuffie Potter Aston
+a(VDayssi Olarte
 p113
 g2
 (g6
-S')\x01\x00\x00\x00\x00\x00\x00'
+S'(\x01\x00\x00\x00\x00\x00\x00'
 p114
 tp115
 Rp116
 tp117
-a(VDayssi Olarte
+a(VBonnie Comley
 p118
 g2
 (g6
-S'(\x01\x00\x00\x00\x00\x00\x00'
+S'%\x01\x00\x00\x00\x00\x00\x00'
 p119
 tp120
 Rp121
 tp122
-a(VBonnie Comley
+a(VLucia Hwong Gordon
 p123
 g2
 (g6
-S'%\x01\x00\x00\x00\x00\x00\x00'
+S'\x14\x01\x00\x00\x00\x00\x00\x00'
 p124
 tp125
 Rp126
 tp127
-a(VLucia Hwong Gordon
+a(VKamie Lightburn
 p128
 g2
 (g6
@@ -241,29 +241,29 @@ p129
 tp130
 Rp131
 tp132
-a(VKamie Lightburn
+a(VAnnieWatt
 p133
 g2
 (g6
-S'\x14\x01\x00\x00\x00\x00\x00\x00'
+S'\x12\x01\x00\x00\x00\x00\x00\x00'
 p134
 tp135
 Rp136
 tp137
-a(VAnnieWatt
+a(VAnnie Watt
 p138
 g2
 (g6
-S'\x12\x01\x00\x00\x00\x00\x00\x00'
+S'\x0b\x01\x00\x00\x00\x00\x00\x00'
 p139
 tp140
 Rp141
 tp142
-a(VAnnie Watt
+a(VMario Buatta
 p143
 g2
 (g6
-S'\x0b\x01\x00\x00\x00\x00\x00\x00'
+S'\x08\x01\x00\x00\x00\x00\x00\x00'
 p144
 tp145
 Rp146
@@ -277,128 +277,128 @@ p149
 tp150
 Rp151
 tp152
-a(VMario Buatta
+a(VBarbara
 p153
 g2
 (g6
-S'\x08\x01\x00\x00\x00\x00\x00\x00'
+S'\x06\x01\x00\x00\x00\x00\x00\x00'
 p154
 tp155
 Rp156
 tp157
-a(VBarbara
+a(VBettina Zilkha
 p158
 g2
 (g6
-S'\x06\x01\x00\x00\x00\x00\x00\x00'
+S'\x03\x01\x00\x00\x00\x00\x00\x00'
 p159
 tp160
 Rp161
 tp162
-a(VBettina Zilkha
+a(VFoundation
 p163
 g2
 (g6
-S'\x03\x01\x00\x00\x00\x00\x00\x00'
+S'\x01\x01\x00\x00\x00\x00\x00\x00'
 p164
 tp165
 Rp166
 tp167
-a(VFoundation
+a(VLydia Fenet
 p168
 g2
 (g6
-S'\x01\x01\x00\x00\x00\x00\x00\x00'
+S'\xf4\x00\x00\x00\x00\x00\x00\x00'
 p169
 tp170
 Rp171
 tp172
-a(VLydia Fenet
+a(VAllison Aston
 p173
 g2
 (g6
-S'\xf4\x00\x00\x00\x00\x00\x00\x00'
+S'\xf1\x00\x00\x00\x00\x00\x00\x00'
 p174
 tp175
 Rp176
 tp177
-a(VAllison Aston
+a(VStewart Lane
 p178
 g2
 (g6
-S'\xf1\x00\x00\x00\x00\x00\x00\x00'
+S'\xec\x00\x00\x00\x00\x00\x00\x00'
 p179
 tp180
 Rp181
 tp182
-a(VStewart Lane
+a(VKaren LeFrak
 p183
 g2
 (g6
-S'\xec\x00\x00\x00\x00\x00\x00\x00'
+S'\xeb\x00\x00\x00\x00\x00\x00\x00'
 p184
 tp185
 Rp186
 tp187
-a(VKaren LeFrak
+a(VElizabeth Stribling
 p188
 g2
 (g6
-S'\xeb\x00\x00\x00\x00\x00\x00\x00'
+S'\xea\x00\x00\x00\x00\x00\x00\x00'
 p189
 tp190
 Rp191
 tp192
-a(VElizabeth Stribling
+a(VDeborah Norville
 p193
 g2
 (g6
-S'\xea\x00\x00\x00\x00\x00\x00\x00'
+S'\xe7\x00\x00\x00\x00\x00\x00\x00'
 p194
 tp195
 Rp196
 tp197
-a(VDeborah Norville
+a(VJamee Gregory
 p198
 g2
 (g6
-S'\xe7\x00\x00\x00\x00\x00\x00\x00'
+S'\xe6\x00\x00\x00\x00\x00\x00\x00'
 p199
 tp200
 Rp201
 tp202
-a(VJamee Gregory
+a(VYugoslavia
 p203
 g2
 (g6
-S'\xe6\x00\x00\x00\x00\x00\x00\x00'
+S'\xe4\x00\x00\x00\x00\x00\x00\x00'
 p204
 tp205
 Rp206
 tp207
-a(VYugoslavia
+a(VHermes
 p208
 g2
 (g6
-S'\xe4\x00\x00\x00\x00\x00\x00\x00'
+S'\xe2\x00\x00\x00\x00\x00\x00\x00'
 p209
 tp210
 Rp211
 tp212
-a(VHermes
+a(VKellogg
 p213
 g2
 (g6
-S'\xe2\x00\x00\x00\x00\x00\x00\x00'
+S'\xd7\x00\x00\x00\x00\x00\x00\x00'
 p214
 tp215
 Rp216
 tp217
-a(VKellogg
+a(VDennis Basso
 p218
 g2
 (g6
-S'\xd7\x00\x00\x00\x00\x00\x00\x00'
+S'\xd6\x00\x00\x00\x00\x00\x00\x00'
 p219
 tp220
 Rp221
@@ -412,25 +412,25 @@ p224
 tp225
 Rp226
 tp227
-a(VDennis Basso
+a(VDaniel Benedict
 p228
 g2
 (g6
-S'\xd6\x00\x00\x00\x00\x00\x00\x00'
+S'\xd5\x00\x00\x00\x00\x00\x00\x00'
 p229
 tp230
 Rp231
 tp232
-a(VDaniel Benedict
+a(VAmy Fine Collins
 p233
 g2
 (g6
-S'\xd5\x00\x00\x00\x00\x00\x00\x00'
+S'\xd1\x00\x00\x00\x00\x00\x00\x00'
 p234
 tp235
 Rp236
 tp237
-a(VAmy Fine Collins
+a(VBarbara Tober
 p238
 g2
 (g6
@@ -439,97 +439,97 @@ p239
 tp240
 Rp241
 tp242
-a(VBarbara Tober
+a(VLiliana Cavendish
 p243
 g2
 (g6
-S'\xd1\x00\x00\x00\x00\x00\x00\x00'
+S'\xd0\x00\x00\x00\x00\x00\x00\x00'
 p244
 tp245
 Rp246
 tp247
-a(VLiliana Cavendish
+a(VNicole Miller
 p248
 g2
 (g6
-S'\xd0\x00\x00\x00\x00\x00\x00\x00'
+S'\xce\x00\x00\x00\x00\x00\x00\x00'
 p249
 tp250
 Rp251
 tp252
-a(VNicole Miller
+a(VSociety
 p253
 g2
 (g6
-S'\xce\x00\x00\x00\x00\x00\x00\x00'
+S'\xcd\x00\x00\x00\x00\x00\x00\x00'
 p254
 tp255
 Rp256
 tp257
-a(VSociety
+a(VValesca Guerr
 p258
 g2
 (g6
-S'\xcd\x00\x00\x00\x00\x00\x00\x00'
+S'\xca\x00\x00\x00\x00\x00\x00\x00'
 p259
 tp260
 Rp261
 tp262
-a(VValesca Guerr
+a(VDonna Karan
 p263
 g2
 (g6
-S'\xca\x00\x00\x00\x00\x00\x00\x00'
+S'\xc6\x00\x00\x00\x00\x00\x00\x00'
 p264
 tp265
 Rp266
 tp267
-a(VDonna Karan
+a(VChristopher Hyl
 p268
 g2
 (g6
-S'\xc6\x00\x00\x00\x00\x00\x00\x00'
+S'\xc5\x00\x00\x00\x00\x00\x00\x00'
 p269
 tp270
 Rp271
 tp272
-a(VChristopher Hyl
+a(VTrustees
 p273
 g2
 (g6
-S'\xc5\x00\x00\x00\x00\x00\x00\x00'
+S'\xc4\x00\x00\x00\x00\x00\x00\x00'
 p274
 tp275
 Rp276
 tp277
-a(VTrustees
+a(VTory Burch
 p278
 g2
 (g6
-S'\xc4\x00\x00\x00\x00\x00\x00\x00'
+S'\xc3\x00\x00\x00\x00\x00\x00\x00'
 p279
 tp280
 Rp281
 tp282
-a(VTory Burch
+a(VAnn Watt
 p283
 g2
 (g6
-S'\xc3\x00\x00\x00\x00\x00\x00\x00'
+S'\xc1\x00\x00\x00\x00\x00\x00\x00'
 p284
 tp285
 Rp286
 tp287
-a(VAnn Watt
+a(VAndrew
 p288
 g2
 (g6
-S'\xc1\x00\x00\x00\x00\x00\x00\x00'
+S'\xbf\x00\x00\x00\x00\x00\x00\x00'
 p289
 tp290
 Rp291
 tp292
-a(VAndrew
+a(VAmy McFarl
 p293
 g2
 (g6
@@ -538,25 +538,25 @@ p294
 tp295
 Rp296
 tp297
-a(VAmy McFarl
+a(VRoric Tobin
 p298
 g2
 (g6
-S'\xbf\x00\x00\x00\x00\x00\x00\x00'
+S'\xbd\x00\x00\x00\x00\x00\x00\x00'
 p299
 tp300
 Rp301
 tp302
-a(VRoric Tobin
+a(VEvelyn Lauder
 p303
 g2
 (g6
-S'\xbd\x00\x00\x00\x00\x00\x00\x00'
+S'\xbc\x00\x00\x00\x00\x00\x00\x00'
 p304
 tp305
 Rp306
 tp307
-a(VMartha Stewart
+a(VDiana Taylor
 p308
 g2
 (g6
@@ -565,7 +565,7 @@ p309
 tp310
 Rp311
 tp312
-a(VEvelyn Lauder
+a(VMartha Stewart
 p313
 g2
 (g6
@@ -574,29 +574,29 @@ p314
 tp315
 Rp316
 tp317
-a(VDiana Taylor
+a(VBenefit
 p318
 g2
 (g6
-S'\xbc\x00\x00\x00\x00\x00\x00\x00'
+S'\xb9\x00\x00\x00\x00\x00\x00\x00'
 p319
 tp320
 Rp321
 tp322
-a(VBenefit
+a(VMary Hilliard
 p323
 g2
 (g6
-S'\xb9\x00\x00\x00\x00\x00\x00\x00'
+S'\xb8\x00\x00\x00\x00\x00\x00\x00'
 p324
 tp325
 Rp326
 tp327
-a(VMary Hilliard
+a(VAmy Hoadley
 p328
 g2
 (g6
-S'\xb8\x00\x00\x00\x00\x00\x00\x00'
+S'\xb7\x00\x00\x00\x00\x00\x00\x00'
 p329
 tp330
 Rp331
@@ -610,11 +610,11 @@ p334
 tp335
 Rp336
 tp337
-a(VAmy Hoadley
+a(VMargo Langenberg
 p338
 g2
 (g6
-S'\xb7\x00\x00\x00\x00\x00\x00\x00'
+S'\xb6\x00\x00\x00\x00\x00\x00\x00'
 p339
 tp340
 Rp341
@@ -628,34 +628,34 @@ p344
 tp345
 Rp346
 tp347
-a(VMargo Langenberg
+a(VFe Fendi
 p348
 g2
 (g6
-S'\xb6\x00\x00\x00\x00\x00\x00\x00'
+S'\xb5\x00\x00\x00\x00\x00\x00\x00'
 p349
 tp350
 Rp351
 tp352
-a(VFe Fendi
+a(VEllis Isl
 p353
 g2
 (g6
-S'\xb5\x00\x00\x00\x00\x00\x00\x00'
+S'\xb3\x00\x00\x00\x00\x00\x00\x00'
 p354
 tp355
 Rp356
 tp357
-a(VEllis Isl
+a(VJennifer Creel
 p358
 g2
 (g6
-S'\xb3\x00\x00\x00\x00\x00\x00\x00'
+S'\xb1\x00\x00\x00\x00\x00\x00\x00'
 p359
 tp360
 Rp361
 tp362
-a(VCouri Hay
+a(VAnnette Rickel
 p363
 g2
 (g6
@@ -664,7 +664,7 @@ p364
 tp365
 Rp366
 tp367
-a(VJennifer Creel
+a(VCouri Hay
 p368
 g2
 (g6
@@ -682,7 +682,7 @@ p374
 tp375
 Rp376
 tp377
-a(VAnnette Rickel
+a(VRussell Simmons
 p378
 g2
 (g6
@@ -691,11 +691,11 @@ p379
 tp380
 Rp381
 tp382
-a(VRussell Simmons
+a(VRobert
 p383
 g2
 (g6
-S'\xb1\x00\x00\x00\x00\x00\x00\x00'
+S'\xb0\x00\x00\x00\x00\x00\x00\x00'
 p384
 tp385
 Rp386
@@ -709,43 +709,43 @@ p389
 tp390
 Rp391
 tp392
-a(VRobert
+a(VAudrey Gruss
 p393
 g2
 (g6
-S'\xb0\x00\x00\x00\x00\x00\x00\x00'
+S'\xae\x00\x00\x00\x00\x00\x00\x00'
 p394
 tp395
 Rp396
 tp397
-a(VAudrey Gruss
+a(VPaula Zahn
 p398
 g2
 (g6
-S'\xae\x00\x00\x00\x00\x00\x00\x00'
+S'\xad\x00\x00\x00\x00\x00\x00\x00'
 p399
 tp400
 Rp401
 tp402
-a(VPaula Zahn
+a(VBFAnyc
 p403
 g2
 (g6
-S'\xad\x00\x00\x00\x00\x00\x00\x00'
+S'\xac\x00\x00\x00\x00\x00\x00\x00'
 p404
 tp405
 Rp406
 tp407
-a(VBFAnyc
+a(VFelicia Taylor
 p408
 g2
 (g6
-S'\xac\x00\x00\x00\x00\x00\x00\x00'
+S'\xab\x00\x00\x00\x00\x00\x00\x00'
 p409
 tp410
 Rp411
 tp412
-a(VFelicia Taylor
+a(VHonoree
 p413
 g2
 (g6
@@ -754,16 +754,16 @@ p414
 tp415
 Rp416
 tp417
-a(VHonoree
+a(VGrace Meigher
 p418
 g2
 (g6
-S'\xab\x00\x00\x00\x00\x00\x00\x00'
+S'\xa9\x00\x00\x00\x00\x00\x00\x00'
 p419
 tp420
 Rp421
 tp422
-a(VGrace Meigher
+a(VAnka Palitz
 p423
 g2
 (g6
@@ -772,20 +772,20 @@ p424
 tp425
 Rp426
 tp427
-a(VAnka Palitz
+a(VPhilharmonic
 p428
 g2
 (g6
-S'\xa9\x00\x00\x00\x00\x00\x00\x00'
+S'\xa8\x00\x00\x00\x00\x00\x00\x00'
 p429
 tp430
 Rp431
 tp432
-a(VPhilharmonic
+a(VFutter
 p433
 g2
 (g6
-S'\xa8\x00\x00\x00\x00\x00\x00\x00'
+S'\xa7\x00\x00\x00\x00\x00\x00\x00'
 p434
 tp435
 Rp436
@@ -799,20 +799,20 @@ p439
 tp440
 Rp441
 tp442
-a(VFutter
+a(VSusan Magazine
 p443
 g2
 (g6
-S'\xa7\x00\x00\x00\x00\x00\x00\x00'
+S'\xa6\x00\x00\x00\x00\x00\x00\x00'
 p444
 tp445
 Rp446
 tp447
-a(VSusan Magazine
+a(VAnne Hearst McInerney
 p448
 g2
 (g6
-S'\xa6\x00\x00\x00\x00\x00\x00\x00'
+S'\xa5\x00\x00\x00\x00\x00\x00\x00'
 p449
 tp450
 Rp451
@@ -826,7 +826,7 @@ p454
 tp455
 Rp456
 tp457
-a(VAnne Hearst McInerney
+a(VEllen V
 p458
 g2
 (g6
@@ -835,43 +835,43 @@ p459
 tp460
 Rp461
 tp462
-a(VEllen V
+a(VGregory Long
 p463
 g2
 (g6
-S'\xa5\x00\x00\x00\x00\x00\x00\x00'
+S'\xa4\x00\x00\x00\x00\x00\x00\x00'
 p464
 tp465
 Rp466
 tp467
-a(VGregory Long
+a(VConsul General
 p468
 g2
 (g6
-S'\xa4\x00\x00\x00\x00\x00\x00\x00'
+S'\xa1\x00\x00\x00\x00\x00\x00\x00'
 p469
 tp470
 Rp471
 tp472
-a(VConsul General
+a(VSeidenfeld
 p473
 g2
 (g6
-S'\xa1\x00\x00\x00\x00\x00\x00\x00'
+S'\xa0\x00\x00\x00\x00\x00\x00\x00'
 p474
 tp475
 Rp476
 tp477
-a(VSeidenfeld
+a(VLiz Peek
 p478
 g2
 (g6
-S'\xa0\x00\x00\x00\x00\x00\x00\x00'
+S'\x9f\x00\x00\x00\x00\x00\x00\x00'
 p479
 tp480
 Rp481
 tp482
-a(VLiz Peek
+a(VLeonard Lauder
 p483
 g2
 (g6
@@ -880,7 +880,7 @@ p484
 tp485
 Rp486
 tp487
-a(VLeonard Lauder
+a(VRichard Johnson
 p488
 g2
 (g6
@@ -889,16 +889,16 @@ p489
 tp490
 Rp491
 tp492
-a(VRichard Johnson
+a(VAlec Baldwin
 p493
 g2
 (g6
-S'\x9f\x00\x00\x00\x00\x00\x00\x00'
+S'\x9e\x00\x00\x00\x00\x00\x00\x00'
 p494
 tp495
 Rp496
 tp497
-a(VAlec Baldwin
+a(VAdelina Wong Ettelson
 p498
 g2
 (g6
@@ -907,11 +907,11 @@ p499
 tp500
 Rp501
 tp502
-a(VAdelina Wong Ettelson
+a(VBarbara Regna
 p503
 g2
 (g6
-S'\x9e\x00\x00\x00\x00\x00\x00\x00'
+S'\x9d\x00\x00\x00\x00\x00\x00\x00'
 p504
 tp505
 Rp506
