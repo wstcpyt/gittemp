@@ -23,16 +23,15 @@ def exclude(blacklist, dicts):
 @typecheck.returns("number")
 
 # City Model Class
-class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
+class City_model():
     def __init__(self):
-        self.mark = "True"
+        pass
     def fit(self, city_df):
         self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
     def predict(self, name):
         return float(self.city_grouped[self.city_grouped.city==name].stars)
-    
+model = joblib.load("./ml/model/city/city_model.pkl")    
 def city_model(record):
-    model = joblib.load("./ml/model/city/city_model.pkl")
     return model.predict(record)
 
 
