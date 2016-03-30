@@ -20,7 +20,8 @@ def exclude(blacklist, dicts):
 @typecheck.test_cases(record=pick({"city"}, test_json))
 @typecheck.returns("number")
 def city_model(record):
-    return 0
+    model = joblib.load("./ml/model/city_model.pkl")
+    return model.predict(record)
 
 
 @fellow.batch(name="ml.lat_long_model")
