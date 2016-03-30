@@ -24,7 +24,7 @@ def exclude(blacklist, dicts):
 @typecheck.test_cases(record=pick({"city"}, test_json))
 @typecheck.returns("number")
 def city_model(record):
-    return citymodel.predict(record)
+    return 0
 
 
 @fellow.batch(name="ml.lat_long_model")
