@@ -30,8 +30,9 @@ class City_model():
         self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
     def predict(self, name):
         return float(self.city_grouped[self.city_grouped.city==name].stars)
-model = joblib.load("./ml/model/city/city_model.pkl")    
+    
 def city_model(record):
+    model = joblib.load("./ml/model/city/city_model.pkl")
     return model.predict(record)
 
 
