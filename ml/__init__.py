@@ -23,7 +23,9 @@ def exclude(blacklist, dicts):
 @typecheck.returns("number")
 
 # City Model Class
-class City_model():
+class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
+    def __init__(self):
+        self.mark = "True"
     def fit(self, city_df):
         self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
     def predict(self, name):
