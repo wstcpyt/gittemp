@@ -33,7 +33,7 @@ class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
     
 def city_model(record):
     model = joblib.load("./ml/model/city/city_model.pkl")
-    return model.predict(record)
+    return 0
 
 
 @fellow.batch(name="ml.lat_long_model")
