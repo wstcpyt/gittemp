@@ -6,6 +6,16 @@ import typecheck
 import fellow
 from .data import test_json
 from sklearn.externals import joblib
+import sklearn as sk
+
+# City Model Class
+class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
+    def __init__(self):
+        pass
+    def fit(self, city_df):
+        self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
+    def predict(self, name):
+        return float(self.city_grouped[self.city_grouped.city==name].stars)
 
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
