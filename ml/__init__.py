@@ -21,7 +21,6 @@ def exclude(blacklist, dicts):
 @fellow.batch(name="ml.city_model")
 @typecheck.test_cases(record=pick({"city"}, test_json))
 @typecheck.returns("number")
-
 # City Model Class
 class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
     def __init__(self):
@@ -30,10 +29,9 @@ class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
         self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
     def predict(self, name):
         return float(self.city_grouped[self.city_grouped.city==name].stars)
-    
+citymodel = joblib.load("./ml/model/city/city_model.pkl")
 def city_model(record):
-    model = joblib.load("./ml/model/city/city_model.pkl")
-    return model.predict(record)
+    return citymodel.predict(record)
 
 
 @fellow.batch(name="ml.lat_long_model")
