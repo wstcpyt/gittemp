@@ -5,20 +5,11 @@ import toolz
 import typecheck
 import fellow
 from .data import test_json
-from sklearn.externals import joblib
 import sklearn as sk
+import dill
 
-# City Model Class
-class City_model():
-    def __init__(self):
-        pass
-    def fit(self, city_df):
-        self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
-    def predict(self, name):
-        return float(self.city_grouped[self.city_grouped.city==name].stars)
-citymodel = joblib.load("./ml/model/city/city_model.pkl")
-
-
+with open('./ml/city_model.pkl', 'rb') as f:
+    citymodel = dill.load(f)
 
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
