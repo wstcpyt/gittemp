@@ -8,14 +8,6 @@ from .data import test_json
 from sklearn.externals import joblib
 import sklearn as sk
 
-# City Model Class
-class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
-    def __init__(self):
-        pass
-    def fit(self, city_df):
-        self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
-    def predict(self, name):
-        return float(self.city_grouped[self.city_grouped.city==name].stars)
 
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
@@ -29,6 +21,16 @@ def exclude(blacklist, dicts):
 @fellow.batch(name="ml.city_model")
 @typecheck.test_cases(record=pick({"city"}, test_json))
 @typecheck.returns("number")
+
+# City Model Class
+class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
+    def __init__(self):
+        pass
+    def fit(self, city_df):
+        self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
+    def predict(self, name):
+        return float(self.city_grouped[self.city_grouped.city==name].stars)
+    
 def city_model(record):
     model = joblib.load("./ml/model/city/city_model.pkl")
     return model.predict(record)
