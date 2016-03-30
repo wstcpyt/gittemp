@@ -26,7 +26,7 @@ def exclude(blacklist, dicts):
 class City_model(sk.base.BaseEstimator, sk.base.RegressorMixin):
     def __init__(self):
         pass
-    def fit(self, city_df):
+    def fit(self,city_df):
         self.city_grouped = df.groupby('city').agg({'stars':np.mean}).reset_index()
     def predict(self, name):
         return float(self.city_grouped[self.city_grouped.city==name].stars)
