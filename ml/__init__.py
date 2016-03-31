@@ -24,7 +24,7 @@ def exclude(blacklist, dicts):
 @typecheck.test_cases(record=pick({"city"}, test_json))
 @typecheck.returns("number")
 def city_model(record):
-    print record
+    print record['city']
     return citymodel.predict(record)
 
 
