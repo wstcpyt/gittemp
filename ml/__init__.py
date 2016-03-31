@@ -35,6 +35,8 @@ def city_model(record):
 def lat_long_model(record):
     la = record['latitude']
     lo = record['longitude']
+    print lat
+    print lo
     return latlongmodel.predict([la,lo])
 
 
