@@ -16,6 +16,9 @@ with open('./ml/cat_transform.pkl', 'rb') as f:
     cat_transform = dill.load(f)
 with open('./ml/cat_model.pkl', 'rb') as f:
     cat_model = dill.load(f)
+with open('./ml/tfidfdict.pkl', 'rb') as f:
+    tfidfdict = dill.load(f)
+
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
             for d in dicts]
@@ -45,7 +48,22 @@ def lat_long_model(record):
 @typecheck.test_cases(record=pick({"categories"}, test_json))
 @typecheck.returns("number")
 def category_model(record):
-    x = cat_transform.transform({"cat":record["categories"][0] if len(record["categories"]) > 0 else "0"})
+    def get_most_important(x):
+        res = "null"
+        largest = 0
+        for word in x:
+            word = word.replace(" ","").replace("&","")
+            word = word.replace("(","").replace(")","")
+            word = word.replace("/","").replace("'","")
+            word = word.replace(",","").replace("-","")
+            word = word.lower()
+            if tfidfdict[word] > largest:
+                largest = tfidfdict[word]
+                res = word
+        return res
+    recordlist = record["categories"]
+    tfword = get_most_important(recordlist)
+    x = cat_transform.transform({"cat":tfword})
     return cat_model.predict(x)[0]
 
 
