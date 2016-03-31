@@ -61,6 +61,7 @@ def category_model(record):
                 largest = tfidfdict[word]
                 res = word
         return res
+    print record
     recordlist = record["categories"]
     tfword = get_most_important(recordlist)
     x = cat_transform.transform({"cat":tfword})
