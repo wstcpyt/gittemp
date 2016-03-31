@@ -79,7 +79,7 @@ def attribute_knn_model(record):
                     items.append((new_key + "_" + v, 1))
         return dict(items)
     flat_x = flatten(record["attributes"])
-    transformed_x = attribute_transform(flat_x)
+    transformed_x = attribute_transform.transform(flat_x)
     return attribute_model.predict(transformed_x)[0]
 
 
