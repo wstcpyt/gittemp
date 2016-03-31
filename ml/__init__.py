@@ -10,6 +10,8 @@ import dill
 
 with open('./ml/city_model.pkl', 'rb') as f:
     citymodel = dill.load(f)
+with open('./ml/latlong.pkl', 'rb') as f:
+    latlongmodel = dill.load(f)
 
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
@@ -31,7 +33,9 @@ def city_model(record):
 @typecheck.test_cases(record=pick({"longitude", "latitude"}, test_json))
 @typecheck.returns("number")
 def lat_long_model(record):
-    return 0
+    la = record['latitude']
+    lo = record['longitude']
+    return latlongmodel.predict([la,lo])
 
 
 @fellow.batch(name="ml.category_model")
