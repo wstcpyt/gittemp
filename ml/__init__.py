@@ -18,7 +18,11 @@ with open('./ml/cat_model.pkl', 'rb') as f:
     cat_model = dill.load(f)
 with open('./ml/tfidftransform.pkl', 'rb') as f:
     tfidftransform = dill.load(f)
-
+with open('./ml/attribute_model.pkl', 'rb') as f:
+    attribute_model = dill.load(f)
+with open('./ml/attribute_transform.pkl', 'rb') as f:
+    attribute_transform = dill.load(f)
+    
 def pick(whitelist, dicts):
     return [toolz.keyfilter(lambda k: k in whitelist, d)
             for d in dicts]
@@ -50,7 +54,7 @@ def lat_long_model(record):
 def category_model(record):
     input_dict = record["categories"]
     input_dict = dict(zip(record["categories"],[1 for _ in range(len(input_dict))]))
-    x = cat_transform.transform(input_dict) # [0,0,1]
+    x = cat_transform.transform(input_dict)
     x = tfidftransform.transform(x)
     return cat_model.predict(x)[0]
 
@@ -59,7 +63,24 @@ def category_model(record):
 @typecheck.test_cases(record=pick({"attributes"}, test_json))
 @typecheck.returns("number")
 def attribute_knn_model(record):
-    return 0
+    import collections
+    def flatten(d, parent_key='', sep='_'):
+        items = []
+        for k, v in d.items():
+            new_key = parent_key + sep + k if parent_key else k
+            if isinstance(v, collections.MutableMapping):
+                items.extend(flatten(v, new_key, sep=sep).items())
+            else:
+                if isinstance(v, bool):
+                    items.append((new_key, int(v)))
+                elif isinstance(v, int):
+                    items.append((new_key, v))
+                else:
+                    items.append((new_key + "_" + v, 1))
+        return dict(items)
+    flat_x = flatten(record["attributes"])
+    transformed_x = attribute_transform(flat_x)
+    return attribute_model.predict(transformed_x)[0]
 
 
 @fellow.batch(name="ml.full_model")
