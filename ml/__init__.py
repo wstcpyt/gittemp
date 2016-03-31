@@ -35,8 +35,8 @@ def city_model(record):
 def lat_long_model(record):
     la = record['latitude']
     lo = record['longitude']
-    print latlongmodel.predict([la,lo])
-    return latlongmodel.predict([la,lo])
+    print latlongmodel.predict([la,lo])[0]
+    return latlongmodel.predict([la,lo])[0]
 
 
 @fellow.batch(name="ml.category_model")
