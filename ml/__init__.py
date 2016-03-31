@@ -52,6 +52,8 @@ def category_model(record):
         res = "null"
         largest = 0
         for word in x:
+            if word not in tfidfdict:
+                continue
             word = word.replace(" ","").replace("&","")
             word = word.replace("(","").replace(")","")
             word = word.replace("/","").replace("'","")
