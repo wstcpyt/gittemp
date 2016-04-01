@@ -63,7 +63,6 @@ def category_model(record):
 @typecheck.test_cases(record=pick({"attributes"}, test_json))
 @typecheck.returns("number")
 def attribute_knn_model(record):
-    from sklearn.feature_extraction import DictVectorizer
     transformed_x = attribute_transform.transform(record["attributes"])
     return attribute_model.predict(transformed_x)[0]
 
