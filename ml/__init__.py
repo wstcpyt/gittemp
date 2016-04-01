@@ -63,23 +63,7 @@ def category_model(record):
 @typecheck.test_cases(record=pick({"attributes"}, test_json))
 @typecheck.returns("number")
 def attribute_knn_model(record):
-    import collections
-    def flatten(d, parent_key='', sep='_'):
-        items = []
-        for k, v in d.items():
-            new_key = parent_key + sep + k if parent_key else k
-            if isinstance(v, collections.MutableMapping):
-                items.extend(flatten(v, new_key, sep=sep).items())
-            else:
-                if isinstance(v, bool):
-                    items.append((new_key, int(v)))
-                elif isinstance(v, int):
-                    items.append((new_key, v))
-                else:
-                    items.append((new_key + "_" + v, 1))
-        return dict(items)
-    flat_x = flatten(record["attributes"])
-    transformed_x = attribute_transform.transform(flat_x)
+    transformed_x = attribute_transform.transform(record["attributes"])
     return attribute_model.predict(transformed_x)[0]
 
 
