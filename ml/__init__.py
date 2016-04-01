@@ -65,6 +65,7 @@ def category_model(record):
 def attribute_knn_model(record):
     print record
     transformed_x = attribute_transform.transform(record["attributes"])
+    print attribute_transform.transform(record["attributes"])
     return attribute_model.predict(transformed_x)[0]
 
 
